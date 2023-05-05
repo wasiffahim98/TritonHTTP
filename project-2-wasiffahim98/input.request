@@ -1,0 +1,3 @@
+GET /index.html HTTP/1.1
+Host: hostname1.cse124wfahim.cloudns.ph
+

@@ -1,0 +1,10 @@
+[
+	{
+		"hostname": "hostname1.cse124wfahim.cloudns.ph",
+		"docroot": "./sample_htdocs"
+	},
+	{
+		"hostname": "hostname2.cse124wfahim.cloudns.ph",
+		"docroot": "./sample_htdocs_2"
+	}
+]
